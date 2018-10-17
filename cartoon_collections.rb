@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
+  dwarves.each_with_index = ["Doc", "Dopey", "Bashful", "Grumpy"]
 end
   puts roll_call_dwarves(dwarves)
 end 
