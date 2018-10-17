@@ -1,12 +1,9 @@
 def roll_call_dwarves(dwarves)
   dwarves.each_with_index {|dwarves, i| (i + )
-
 end 
 
 def summon_captain_planet(planeteer_call)
   planeteer_call.collect {|planeteer_call| planeteer_call.capitalize + "!"}
-end
-  puts planeteer_calls.each_with_index.upcase { |index, item|
 end 
 
 def long_planeteer_calls# code an argument here
