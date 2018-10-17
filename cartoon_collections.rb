@@ -5,7 +5,7 @@ end
 end 
 
 def summon_captain_planet(planeteer_call)
-  planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+  
 end
   puts planeteer_calls.each_with_index.upcase { |index, item|
 end 
