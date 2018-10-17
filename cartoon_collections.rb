@@ -6,7 +6,7 @@ def summon_captain_planet(planeteer_call)
   planeteer_call.collect {|planeteer_call| planeteer_call.capitalize + "!"}
 end 
 
-def long_planeteer_calls(short_words, assorted_words)
+def long_planeteer_calls(words)
   i > 4 
     short_words.length 
       puts true
