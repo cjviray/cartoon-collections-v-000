@@ -7,13 +7,8 @@ def summon_captain_planet(planeteer_call)
 end 
 
 def long_planeteer_calls(words)
-  i > 4 
-    short_words.length 
-      puts true
-    else 
-      puts false 
-    end 
-  end 
+  words.any? 
+end 
 
 def find_the_cheese# code an argument here
   # the array below is here to help
